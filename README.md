@@ -51,30 +51,6 @@ reyvex/
 └── README.md
 ```
 
-## Como Executar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/reyvex.git
-```
-
-2. Entre na pasta do projeto:
-
-```bash
-cd reyvex
-```
-
-3. Abra o arquivo `index.html` no navegador.
-
-## Preview
-
-Adicione aqui uma imagem mostrando o funcionamento do site.
-
-```markdown
-![Preview da Reyvex](img/preview.png)
-```
-
 ## Objetivo
 
 O objetivo do projeto é desenvolver uma experiência digital moderna para o público gamer, combinando tecnologia, design, usabilidade e personalização de setups.
